@@ -1,0 +1,13 @@
+.landing__page__image {
+  width: 100%;
+}
+
+.image__container {
+  width: 100%;
+}
+
+.img {
+  display: block;
+  max-width: 27.5rem;
+  width: 100%;
+}

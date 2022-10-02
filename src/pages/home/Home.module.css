@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text {
+  align-self: center;
+}
+
+.img {
+  margin-right: 10.5rem;
+}

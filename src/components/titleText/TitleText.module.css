@@ -1,0 +1,57 @@
+.title__text {
+  width: 100%;
+  vertical-align: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 4rem;
+  color: #240d57;
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
+.text__one,
+.text__two,
+.text__three {
+  display: block;
+}
+
+.text__two {
+  background: linear-gradient(90deg, #8456ec 24.2%, #e87bf8 120.46%);
+  background-clip: text;
+  color: transparent;
+}
+
+.content__container {
+  width: 32.5625rem;
+}
+
+.content {
+  font-weight: 300;
+  font-size: 1.5rem;
+  margin-bottom: 4.25rem;
+  color: #4f4f4f;
+  text-align: right;
+}
+
+.btn__container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.btn {
+  width: 20rem;
+  height: 3.4375rem;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.25rem;
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+  line-height: 23px;
+  color: #ffffff;
+  background: linear-gradient(90deg, #8456ec 3.25%, #e87bf8 100%);
+}
